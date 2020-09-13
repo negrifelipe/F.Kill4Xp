@@ -3,6 +3,8 @@
 
 This plugin gives xp to a player when he kills someone
 
+Plugin download: https://github.com/01-Feli/F.Kill4Xp/releases/
+
 F.Plugins Discord: https://discord.gg/8zded6r
 
 # Configuration File
