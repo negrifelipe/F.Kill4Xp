@@ -1,5 +1,6 @@
 # F.Kill4Xp
-![Discord](https://img.shields.io/discord/742861338233274418?label=Discord&logo=Discord)
+![Discord](https://img.shields.io/discord/742861338233274418?label=Discord&logo=Discord) [![Github All Releases](https://img.shields.io/github/downloads/01-Feli/F.Kill4Xp/total.svg)]()
+
 
 This plugin gives xp to a player when he kills someone
 
